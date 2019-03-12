@@ -10,9 +10,7 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="373dp"
-        tools:layout_editor_absoluteX="146dp"
-        tools:layout_editor_absoluteY="356dp" />
+        android:layout_height="400dp" />
 
     <Button
         android:id="@+id/start"
@@ -28,7 +26,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:gravity="center"
-        android:paddingBottom="10dp"
         android:text="@string/stop" />
 
 </LinearLayout>
