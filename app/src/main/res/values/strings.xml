@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Periodic_Location_Update</string>
+    <string name="app_name">Periodic Location Update</string>
     <string name="start">Start</string>
-    <string name="stop">Stop</string>
 </resources>
